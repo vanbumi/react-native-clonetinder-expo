@@ -8,7 +8,7 @@ Kita akan membuat aplikasi sederhana dengan menggunakan Facebook graph API, untu
 
 * Install [Expo Desktop](https://docs.expo.io/versions/v16.0.0/introduction/installation.html).
 * Install Expo App -> Google Play Store or iOS App Store.
-* Install [Genymotion].(https://docs.expo.io/versions/v16.0.0/guides/genymotion.html) (Opsional), [Cara Install disni].(https://docs.genymotion.com/Content/01_Get_Started/Installation.htm)
+* Install [Genymotion](https://docs.expo.io/versions/v16.0.0/guides/genymotion.html) (Opsional), [Cara Install disni](https://docs.genymotion.com/Content/01_Get_Started/Installation.htm).
  
 ### Get Start.
 
@@ -171,3 +171,4 @@ Info Jadwal Training hubungi:
 
     Aji (WA)      : 0858 888 331 69   
     Dyo (WA only) : 0878 788 669 43
+
