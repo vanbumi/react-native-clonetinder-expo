@@ -1,7 +1,7 @@
 import React from 'react';
 import { StyleSheet, Text, View, Image } from 'react-native';
 
-const fbImage = 'https://graph.facebook.com/1376917177/picture?height=900'
+const fbImage = 'https://graph.facebook.com/1376917177/picture?height=900';
 
 export default class App extends React.Component {
   render() {
